@@ -35,6 +35,10 @@ Covid 19 Data in Europe from website https://www.ecdc.europa.eu/en
   
    <img src="images/compute.png" width="700"/>
 
+- Workflow:
+  
+   <img src="images/workflow.png" width="700"/>
+
 **2. Azure Data Lake Gen 2**
 
 - resource group
