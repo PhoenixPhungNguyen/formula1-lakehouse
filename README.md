@@ -64,8 +64,12 @@ Covid 19 Data in Europe from website https://www.ecdc.europa.eu/en
 **4. Analyze**
 
 - ****
+<img src="images/analyse_dominant_driver.png" width="700"/>
   
 <img src="images/presentation1.png" width="700"/>
+
+<img src="images/analyse_dominant_teams.png" width="700"/>
+
 <img src="images/presentation2.png" width="700"/>
 
 
