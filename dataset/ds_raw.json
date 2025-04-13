@@ -1,0 +1,28 @@
+{
+	"name": "ds_raw",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_adls_formula1",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"P_file_date": {
+				"type": "string"
+			}
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"folderPath": {
+					"value": "@dataset().P_file_date",
+					"type": "Expression"
+				},
+				"fileSystem": "raw"
+			}
+		},
+		"schema": {}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
