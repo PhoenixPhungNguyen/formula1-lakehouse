@@ -22,8 +22,6 @@
   - 📂
 
 ## Data Source
-Covid 19 Data in Europe from website https://www.ecdc.europa.eu/en
-
 ## Tech Stack
 
 **1. Azure Databricks** 
