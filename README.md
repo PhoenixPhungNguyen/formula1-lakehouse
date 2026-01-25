@@ -1,27 +1,12 @@
-# Formula1 Lakehouse
+# Formula1 Data Lakehouse Project on Azure Databricks
 
 ## Overview
-
-
-## Table of contents
+Built an end-to-end modern data lakehouse pipeline using real-world Formula 1 racing data from the Ergast API. Utilized Azure Databricks, Delta Lake, and PySpark to ingest, process, and model data for analytics and visualization in Power BI.
 
 ## Architecture
 
 <img src="images/8.formula1_architecture_project.png"/>
 
-## Project Structure
-
-- 📂 **PhoenixPhungNguyen-formula1-lakehouse/**
-  - 📄 README.md
-  - 📂 images/
-  - 📂   
-  - 📂   
-  - 📂 
-  - 📂 
-  - 📂 
-  - 📂
-
-## Data Source
 ## Tech Stack
 
 **1. Azure Databricks** 
